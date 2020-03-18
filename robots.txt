@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maaviomoov.miravalor.nl/sitemap.xml
